@@ -26,9 +26,4 @@
 <a href="https://gamemaker.io/en" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373618/gamemaker2.svg" alt="Gamemaker studio 2" width="40" height="40"/> </a>
 <a href="https://www.gbstudio.dev/" targer = "_blank" rel="noreferrer"><img src="https://www.gbstudio.dev/img/icon.png" alt="GB Studio" width="40" height="40"/></a>
 </p>
-<p><iframe src="https://widgets.gamejolt.com/package/v1?key=k772FYxo" frameborder="0" width="500" height="245"></iframe></p>
-<p><iframe frameborder="0" src="https://itch.io/embed/2849974?border_width=2&amp;bg_color=6f1e27&amp;fg_color=ffee07&amp;link_color=0484d1&amp;border_color=fcf800" width="554" height="169"><a href="https://timespacewarrior.itch.io/temporal-light-shadow-flame">Temporal Light: Shadow Flame by TimeSpaceWarrior</a></iframe></p>
-<p><iframe src="https://widgets.gamejolt.com/package/v1?key=5ixQWF2p" frameborder="0" width="500" height="245"></iframe></p>
-<p><iframe frameborder="0" src="https://itch.io/embed/2257082?border_width=2&amp;bg_color=f78888&amp;fg_color=3e1dac&amp;link_color=faf35b&amp;border_color=000ee3" width="554" height="169"><a href="https://timespacewarrior.itch.io/temporal-light-jem-of-twilight">Temporal Light-Jem of Twilight demo by TimeSpaceWarrior</a></iframe></p>
-<p><iframe src="https://widgets.gamejolt.com/package/v1?key=PCSfgNWw" frameborder="0" width="500" height="245"></iframe></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spacetimewarrior&show_icons=true&locale=en" alt="spacetimewarrior" /></p>
