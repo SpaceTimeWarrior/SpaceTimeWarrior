@@ -26,4 +26,3 @@
 <a href="https://gamemaker.io/en" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373618/gamemaker2.svg" alt="Gamemaker studio 2" width="40" height="40"/> </a>
 <a href="https://www.gbstudio.dev/" targer = "_blank" rel="noreferrer"><img src="https://www.gbstudio.dev/img/icon.png" alt="GB Studio" width="40" height="40"/></a>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spacetimewarrior&show_icons=true&locale=en" alt="spacetimewarrior" /></p>
